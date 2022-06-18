@@ -1,0 +1,84 @@
+body {
+    background-image: linear-gradient(to bottom, #0c2241, #0c2c49, #10364f, #174055, #214a5b, #295661, #366266, #466e6a, #5f7e6f, #7b8d75, #9a9b7f, #b8a88f);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #fff;
+    
+        max-width: 75%; 
+        margin: 0 auto; 
+        float: none; 
+    }
+    
+    a {
+        text-decoration: none;
+        text-align: center;
+    }
+    
+    button {
+        border: 1pt solid #fff;
+        border-radius: 25px;
+        margin: 12.5px;
+        color: #fff;
+       background-color: #5185a5 ;
+       cursor: pointer;
+    }
+    
+    button:hover {
+        background-color:  #26525F;
+    }
+    
+    h1 {
+        text-align: center;
+        color: 
+        #fff;
+        font-weight: bold;
+        font-size: 30pt;
+        margin: 10px;
+        
+    }
+    
+    h2 {
+        text-align: center;
+        padding: 24px;
+        font-size: 24pt;
+    }
+    
+    h4 {
+        text-align: center;
+        padding: 24px;
+    }
+    
+    p {
+        font-size: 14pt;
+        text-align: justify;
+        text-justify: inter-word;
+        margin: 20px;
+        padding: 12px 20px;
+        border: 1px solid #999;
+        border-radius: 10px;
+    }
+    
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        border-radius: 8px;
+        width: 250px;
+        height: 250px;
+       
+      }
+    .copy-right {
+        font-weight: bold;
+        font-size: 18pt;
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
+      .yukon-img, .ilulissat-img, .reyjavik-img, .tromso-img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        border-radius: 129px;
+        width: 250px;
+        height: 250px;
+      }
